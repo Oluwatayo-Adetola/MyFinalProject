@@ -1,6 +1,5 @@
 # Project Title
 
-Food Recipe
 
 ## Getting Started
 
