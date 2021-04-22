@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="24dp"
+    android:background="@color/black"
+    android:layout_marginBottom="30dp"
+    >
+
+    <TextView
+        android:id="@+id/button_first"
+        android:layout_width="160dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="16dp"
+        android:background="@color/purple_500"
+        android:text="  Let's Feast!"
+        android:textSize="27sp"
+        android:textColor="#FFFFFF"
+        android:fontFamily="sans-serif-black"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/foodItemTitle" />
+
+    <ImageView
+        android:id="@+id/mainPhoto"
+        android:layout_width="0dp"
+        android:layout_height="220dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/rice_curry"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/foodItemTitle"
+        android:layout_width="380dp"
+        android:layout_height="98dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="16dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Rice with Chicken Curry Sauce"
+        android:textColor="@color/white"
+        android:textSize="23sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mainPhoto" />
+
+    <TextView
+        android:id="@+id/foodCalories"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="24dp"
+        android:layout_marginRight="24dp"
+        android:layout_marginBottom="4dp"
+        android:fontFamily="sans-serif-black"
+        android:textColor="#FB8206"
+        android:textSize="23sp"
+        app:layout_constraintBottom_toBottomOf="@+id/button_first"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:text="450cal" />
+
+    <ImageView
+        android:id="@+id/highlyRatedIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@+id/button_first"
+        app:layout_constraintStart_toEndOf="@+id/button_first"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
