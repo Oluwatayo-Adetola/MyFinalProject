@@ -69,7 +69,7 @@ After copying and pasting the text, click on "Sync now".
 
 2.3)  Screenshots and Arrows to guide the user through the app interface. 
 
- Run the app on your android studio. You should have the below image appear. Then click on the image of any food you want to prepare.
+ Run the app on your android studio. You should have the below image appear. Click on the image of any food you want to prepare.
  
 ![alt text](https://user-images.githubusercontent.com/13349374/115822035-7e040200-a421-11eb-9ae5-9e975a6a8636.png)
  
