@@ -1,9 +1,31 @@
-# Project Title
+# Oluwatayo Adetola Project Specifications
 
 
-## Getting Started
+## Table of Contents 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+1). Brief Overview of the Project 
+
+    1.1  Discussing interface interactions of the application.
+
+2). How to Run the Project 
+
+    2.1  Installation instructions.
+    2.2  Configuration instructions.
+    2.3  Screenshots and Arrows to guide the user through the app interface. 
+
+3). How the Project Was Created
+
+	3.1 Clear illustration of the code using a MCV Diagram.
+    3.2 Functionalities of certain aspects of the code for better understanding, e.g, fragments, 
+    activities, recyclerview, etc.
+    5.3 Discussing why fragments are important in the code’s functionality. Contrasting its uses with activity, 
+    and things related to that scope. 
+
+4).Possible Modifications That Were Made to the Code 
+
+5). Acknowledgements and Credits
+
+ 
 
 ### Prerequisites
 
@@ -51,9 +73,12 @@ Explain what these tests test and why
 Give an example
 ```
 
+
+
 ## Deployment
 
 Add additional notes about how to deploy this on a live system
+
 
 ## Built With
 
