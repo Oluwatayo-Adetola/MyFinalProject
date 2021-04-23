@@ -7,6 +7,7 @@
 				Let's Prepare some food shall we?
 ## Table of Contents 
 
+
 1). Brief Overview of the Project 
 
     1.1  Discuss interface interactions of the application.
@@ -81,7 +82,7 @@ When you click the image, it would open a new tab that shows how to prepare the 
 
 3.1)    Clear illustration of the code using a MCV Diagram.
 
-My application would be explained using the Model Control View (MCV) Diagram. This diagram is very useful in understanding how to create software designs for user interfaces. It also serves as an organization tool to know exactly where and how classes, functions, and databases work together. The MCV diagram is broken into three parts: Model, Controller, and View. The Model feature is the environment which includes the data structures and database of the code. In my project, the model feature includes the classes used to store data members for our food, e.g food item, ingredients, recipes, images of food, etc. 
+My application would be explained using the Model Control View (MCV) Diagram. This diagram is very useful in understanding how to create software designs for user interfaces. It also serves as an organization tool to know exactly where and how classes, functions, and databases work together. The MCV diagram is broken into three parts: Model, Controller, and View. The Model feature is the environment which includes the data structures and database of the code. In my project, the model feature includes the classes used to store data members for our food, e.g food item, ingredients, recipes, images of food, etc. The model componentis also includes object oriented programming features, like encapsulation. 
 
 The View feature deals with what the user sees on the screen. This feature includes layouts, xml files. In my project, the view managed the designs of the app, like the orientation of the pictures and texts, the scrolling, clicking of the images. The Controller feature handles the instructions sent from the view and model feature. For example, clicking on an image (from the view feature) would notify the controller to update the UI so a new tab can open. In my project, the controller does just the same thing. For better understanding, a simple MCV Diagram would be pasted below to illustrate my explanations. 
 
