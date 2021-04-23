@@ -50,6 +50,7 @@ When done downloading the IDE, learn how to import to Android studio using the w
 Now that importing the code to android studio is complete, you would have to add some dependencies to your Android Studio to ensure the code works effectively.
 
 
+
 ## 3) How the Project Was Created
 
 
