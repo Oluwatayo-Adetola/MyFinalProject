@@ -26,32 +26,27 @@
 5). Acknowledgements and Credits
 
  
+## 1). Brief Overview of the Project  
 
-### Prerequisites
+1.1   Discussing Interface Interactions of the Application
 
-What things you need to install the software and how to install them
+Tayo Food App is an android application that makes its user’s food fantasies come into reality. The application contains a variety of dishes, along with their appropriate recipes. The recipes are short, quick, easy, which all means it will give the best customer experience. As discussed in lectures, responsible UX design consists of simplistic ways to make its user engaged with the app. Users get engaged to applications through simple interface interactions like tapping, scrolling, swiping. Tayo Food App has interface interactions like tapping and scrolling, which will make the UI experience much smoother for the user. 
 
-```
-Give examples
-```
+The user interface interactions of Tayo Food App were created through the use of layouts. Layouts are structures that help with the orientation of designs in an app. For this app, the main layout used for scrolling was the recycler view layout. The tapping feature was done with a click feature called "setOnClickListener()", which was put on an imageView in a constraint layout. This Kotlin application was built on Android Studio, where the code can be run on android emulators or on android devices.
 
-### Installing
 
-A step by step series of examples that tell you how to get a development env running
+## 2). How To Run The Project 
 
-Say what the step will be
+2.1 Installation instructions
 
-```
-Give the example
-```
+To download my project, you would have to import the project from github to Android Studio. Users without Android Studio would have to download the IDE and set it up before importing the project. To download Android Studio, click the link below and follow the instructions : 
 
-And repeat
+    “https://developer.android.com/studio?gclid=Cj0KCQjwvYSEBhDjARIsAJMn0lihRWiTtYTY_eVs071arL7Dm9GHJ9Q8sRLLGUTMi3AowNpA_33WrAQaAhPrEALw_wcB&gclsrc=aw.ds”
 
-```
-until finished
-```
+When done downloading, learn how to import to Android studio using the link below:
 
-End with an example of getting some data out of the system or using it for a little demo
+    “https://www.geeksforgeeks.org/how-to-clone-android-project-from-github-in-android-studio/ ”
+
 
 ## Running the tests
 
