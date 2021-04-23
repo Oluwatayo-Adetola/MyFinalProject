@@ -39,7 +39,7 @@ The user interface interactions of Tayo Food App were created through the use of
 
 2.1 Installation instructions
 
-To download my project, you would have to import the project from github to Android Studio. Users without Android Studio would have to download the IDE and set it up before importing the project. To download Android Studio, click the link below and follow the instructions : 
+To download my project, you would have to import the project from github to Android Studio. Users without Android Studio would have to download the IDE and set it up before importing the project. To download Android Studio, click the link of the website citation below and follow the instructions : 
 
     “Download Android Studio and SDK Tools &nbsp;: &nbsp; Android Developers.” Android Developers, developer.android.com/studio?gclid=Cj0KCQjwvYSEBhDjARIsAJMn0lihRWiTtYTY_eVs071arL7Dm9GHJ9Q8sRLLGUTMi3AowNpA_33WrAQaAhPrEALw_wcB&amp;gclsrc=aw.ds. 
 
