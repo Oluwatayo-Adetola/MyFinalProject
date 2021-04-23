@@ -19,11 +19,9 @@
     3.2 Functionalities of certain aspects of the code for better understanding, e.g, fragments, 
     activities, recyclerview, etc.
     5.3 Discussing why fragments are important in the code’s functionality. Contrasting its uses with activity, 
-    and things related to that scope. 
+    and things related to that scope.  
 
-4).Possible Modifications That Were Made to the Code 
-
-5). Acknowledgements and Credits
+4). Acknowledgements and Credits
 
  
 ## 1). Brief Overview of the Project  
@@ -67,3 +65,25 @@ The great advantage of fragments is its flexibility and reusability. Fragments a
 
 Using activities for the program was actually quite simpler than fragments as it was more straightforward. This makes sense because fragments work best with apps that are very complex. All I had to do for activities was to simply create the class and array food list, store it in the main kotlin file, then join the data from the recycle view to the main .kt file with the use of the adapter class. For this project specifically, there was no superior between fragments or activities, it was just to show how their functionalities differ. If this program was a lot more complex, then it would be safe to say that fragments would be a safer choice because it helps in keeping the code organized. 
 
+
+
+## 4).    Acknowledgements and Credits 
+Fragment Information:
+
+- Phillips, Bill, et al. Android Programming - The Big Nerd Ranch Guide. 3rd Edition ed., Big Nerd Ranch, LLC, 2017. 
+
+
+
+Food Images:
+
+- “Pasta Alfredo.” Chef Papi Kitchens, www.chefpapikitchens.com/product/pasta-alfredo/48. 
+
+- “Chicken Stir-Fry Recipes - Page 3.” BettyCrocker.com, www.bettycrocker.com/recipes/dishes/skillet-and-stir-fry-recipes/chicken-stir-fry?page=3. 
+
+- Guiltytreats. “Food Is My Aesthetic.” 🍦, 22 Apr. 2020, guiltytreats.tumblr.com/post/616074721612677120. 
+
+- “Sweet Potato Home Fries: Recipe: Sweet Potato Home Fries, Sweet Potato, Home Fries.” Pinterest, www.pinterest.ca/pin/296885800436508750/. 
+
+- “Classic Spaghetti with Tomato Sauce Recipe.” The Mom 100, 14 Aug. 2020, themom100.com/recipe/spaghetti-with-tomato-sauce/. 
+
+- “Recipe of Easy Chicken Recipes Indian.” Desing Monkey, 17 May 2020, desingmonkey.vercel.app/posts/easy-chicken-recipes-indian/. 
