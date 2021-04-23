@@ -41,11 +41,11 @@ The user interface interactions of Tayo Food App were created through the use of
 
 To download my project, you would have to import the project from github to Android Studio. Users without Android Studio would have to download the IDE and set it up before importing the project. To download Android Studio, click the link below and follow the instructions : 
 
-    “https://developer.android.com/studio?gclid=Cj0KCQjwvYSEBhDjARIsAJMn0lihRWiTtYTY_eVs071arL7Dm9GHJ9Q8sRLLGUTMi3AowNpA_33WrAQaAhPrEALw_wcB&gclsrc=aw.ds”
+    “Download Android Studio and SDK Tools &nbsp;: &nbsp; Android Developers.” Android Developers, developer.android.com/studio?gclid=Cj0KCQjwvYSEBhDjARIsAJMn0lihRWiTtYTY_eVs071arL7Dm9GHJ9Q8sRLLGUTMi3AowNpA_33WrAQaAhPrEALw_wcB&amp;gclsrc=aw.ds. 
 
-When done downloading, learn how to import to Android studio using the link below:
+When done downloading the IDE, learn how to import to Android studio using the website below:
 
-    “https://www.geeksforgeeks.org/how-to-clone-android-project-from-github-in-android-studio/ ”
+    “How to Clone Android Project from GitHub in Android Studio?” GeeksforGeeks, 4 Nov. 2020, www.geeksforgeeks.org/how-to-clone-android-project-from-github-               in-android-studio/. 
 
 
 ## Running the tests
