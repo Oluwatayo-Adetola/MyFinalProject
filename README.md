@@ -1,8 +1,10 @@
 # Oluwatayo Adetola Project Specifications
 
+## TAYO FOOD APP
+			Satisfy your taste buds with food recipes 🥘😋
+ ![alt text](https://user-images.githubusercontent.com/13349374/115821792-13eb5d00-a421-11eb-851b-1f9244ccbceb.png)
 
-
-
+				Let's Prepare some food shall we?
 ## Table of Contents 
 
 1). Brief Overview of the Project 
@@ -69,9 +71,11 @@ After copying and pasting the text, click on "Sync now".
 
  Run the app on your android studio. You should have the below image appear. Then click on the image of any food you want to prepare.
  
+![alt text](https://user-images.githubusercontent.com/13349374/115822035-7e040200-a421-11eb-9ae5-9e975a6a8636.png)
  
 When you click the image, it would open a new tab that shows how to prepare the meal. 
 
+![alt text](https://user-images.githubusercontent.com/13349374/115821828-206fb580-a421-11eb-9381-341184b35112.png)
 
 ## 3) How the Project Was Created
 
