@@ -9,7 +9,7 @@
 
 1). Brief Overview of the Project 
 
-    1.1  Discussing interface interactions of the application.
+    1.1  Discuss interface interactions of the application.
 
 2). How to Run the Project 
 
@@ -22,7 +22,7 @@
 	3.1 Clear illustration of the code using a MCV Diagram.
     3.2 Functionalities of certain aspects of the code for better understanding, e.g, fragments, 
     activities, recyclerview, etc.
-    5.3 Discussing why fragments are important in the code’s functionality. Contrasting its uses with activity, 
+    5.3 Discuss why fragments are important in the code’s functionality. Contrasting its uses with activity, 
     and things related to that scope.  
 
 4). Acknowledgements and Credits
@@ -30,7 +30,7 @@
  
 ## 1). Brief Overview of the Project  
 
-1.1)   Discussing Interface Interactions of the Application
+1.1)   Discuss Interface Interactions of the Application
 
 Tayo Food App is an android application that makes its user’s food fantasies come into reality. The application contains a variety of dishes, along with their appropriate recipes. The food recipes are short, quick, easy, which all means it will give the best customer experience. As discussed in lectures, responsible UX design consists of simplistic ways to make its user engaged with the app. Users get engaged to applications through simple interface interactions like tapping, scrolling, swiping. Tayo Food App has interface interactions like tapping and scrolling, which will make the UI experience much smoother for the user. 
 
@@ -91,7 +91,7 @@ The View feature deals with what the user sees on the screen. This feature inclu
 
 My project used both fragments and activities as their functionalities. This was mainly done to distinguish the difference between fragments and activities for learners. The code could function properly without fragments, but using fragments in android development is good practice. For this reason, I decided to incorporate both of them for educational purposes. As previously stated, the recycler view was the layout used for the scrolling feature. This made the code process a lot more efficient because I only created one image view and text view, then passed it to the adapter class. I didn’t have to create multiple xml files for each food recipe, which was very convenient.  
 
-3.3)    Discussing why fragments are important in the code’s functionality. Contrasting its uses with activity, and things related to that scope. 
+3.3)    Discuss why fragments are important in the code’s functionality. Contrasting its uses with activity, and things related to that scope. 
 
 The great advantages of fragments are its flexibility and reusability. Fragments allow the user to open new tab interfaces without opening a new activity. This comes in handy when the user is trying to do multiple tasks simultaneously in one activity. Fragments work best with navigation of controllers, also with the  encapsulation of components in a reusable way. UI Fragments separates UIs of apps into building blocks, which is suitable for building tab interfaces, tack on animated side bars (Philips et al. 483). In my code, the fragment support manager and fragment transactions were used in managing my fragment layouts and organizing the fragment functions. Fragment managers are specifically involved in adding, removing, reformatting fragments in a given fragment list. For example, my program stored an array list of food items in a fragment, where the fragment and other fragments created were managed by the fragment manager. 
 
