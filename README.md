@@ -50,7 +50,15 @@ When done downloading the IDE, learn how to import to Android studio using the w
 
 Now that importing the code to android studio is complete, you would have to add some dependencies to your Android Studio to ensure the code works effectively.
 
+Click on Click on Build Gradle (Module:), then go to dependency and copy paste the text below:
 
+    apply plugin: "kotlin-android"
+    apply plugin: "kotlin-android-extensions"
+	
+After copy and pasting the text, click on "Sync now". Now, you should be set to have effectively run your code.
+
+
+2.3)  Screenshots and Arrows to guide the user through the app interface. 
 
 ## 3) How the Project Was Created
 
