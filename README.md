@@ -4,7 +4,7 @@
 			Satisfy your taste buds with food recipes 🥘😋
  ![alt text](https://user-images.githubusercontent.com/13349374/115821792-13eb5d00-a421-11eb-851b-1f9244ccbceb.png)
 
-				Let's Prepare some food shall we?
+				Let's prepare some food shall we?
 ## Table of Contents 
 
 
