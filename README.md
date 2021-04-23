@@ -35,7 +35,7 @@ The user interface interactions of Tayo Food App were created through the use of
 
 ## 2). How To Run The Project 
 
-2.1)  Installation instructions
+2.1)  Installation Instructions
 
 To download my project, you would have to import the project from github to Android Studio. Users without Android Studio would have to download the IDE and set it up before importing the project. To download Android Studio, click the link of the website citation below and follow the instructions : 
 
@@ -45,6 +45,11 @@ When done downloading the IDE, learn how to import to Android studio using the w
 
     “How to Clone Android Project from GitHub in Android Studio?” GeeksforGeeks, 4 Nov. 2020, www.geeksforgeeks.org/how-to-clone-android-project-from-github-               in-android-studio/. 
     
+2.2)  Configuration Instrcutions
+
+Now that importing the code to android studio is complete, you would have to add some dependencies to your Android Studio to ensure the code works effectively.
+
+
 ## 3) How the Project Was Created
 
 
@@ -73,7 +78,6 @@ Fragment Information:
 - Phillips, Bill, et al. Android Programming - The Big Nerd Ranch Guide. 3rd Edition ed., Big Nerd Ranch, LLC, 2017. 
 
 
-
 Food Images:
 
 - “Pasta Alfredo.” Chef Papi Kitchens, www.chefpapikitchens.com/product/pasta-alfredo/48. 
@@ -87,3 +91,10 @@ Food Images:
 - “Classic Spaghetti with Tomato Sauce Recipe.” The Mom 100, 14 Aug. 2020, themom100.com/recipe/spaghetti-with-tomato-sauce/. 
 
 - “Recipe of Easy Chicken Recipes Indian.” Desing Monkey, 17 May 2020, desingmonkey.vercel.app/posts/easy-chicken-recipes-indian/. 
+
+## Copyright Statements
+
+Copyright @ Tayo Food App, 2021. All rights reserved.
+
+All images and ideas that were not fully my own were cited in the above.
+Modifiation of this document is permitted for educational purposed only. 
