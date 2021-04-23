@@ -1,7 +1,5 @@
 # Oluwatayo Adetola Project Specifications
 
-🥓🍗🥘🧆
-
 
 
 
@@ -64,13 +62,18 @@ Go to dependency, then copy paste the text (given below) inside the dependency e
  ![alt text](https://user-images.githubusercontent.com/13349374/115820171-eea91f80-a41d-11eb-96fc-2e97aa8b5a9b.png)
 After copying and pasting the text, click on "Sync now". 
  ![alt text](https://user-images.githubusercontent.com/13349374/115820175-f10b7980-a41d-11eb-8017-ab90f5d82ebf.png)
-Now, your android studio should be able to effectively run your code. 
+ Now, your android studio should be able to effectively run your code. 
 
 
 2.3)  Screenshots and Arrows to guide the user through the app interface. 
 
-## 3) How the Project Was Created
+ Run the app on your android studio. You should have the below image appear. Then click on the image of any food you want to prepare.
+ 
+ 
+When you click the image, it would open a new tab that shows how to prepare the meal. 
 
+
+## 3) How the Project Was Created
 
 3.1)    Clear illustration of the code using a MCV Diagram.
 
