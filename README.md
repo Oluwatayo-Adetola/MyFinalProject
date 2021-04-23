@@ -50,4 +50,3 @@ When done downloading the IDE, learn how to import to Android studio using the w
 
 ## Running the tests
 
-![Uploading [ch1.png…]()](url)
