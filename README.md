@@ -101,9 +101,10 @@ Using activities for the program was actually quite simpler than fragments as it
 
 
 ## 4).    Acknowledgements and Credits 
-Fragment Information:
+Fragments and Miscellanoeus Code Ideas:
 
 - Phillips, Bill, et al. Android Programming - The Big Nerd Ranch Guide. 3rd Edition ed., Big Nerd Ranch, LLC, 2017. 
+- “Development of Food App in Android Kotlin Using GridView, BaseAdapter and CardView.” YouTube, 28 Apr. 2020, youtu.be/ReUBY5i9ojY. 
 
 
 Food Images:
@@ -124,5 +125,5 @@ Food Images:
 
 Copyright @ Tayo Food App, 2021. All rights reserved.
 
-All images and ideas that were not fully my own were cited in the above.
-Modifiation of this document is permitted for educational purposed only. 
+All images and ideas that were not fully my own were cited above.
+Modification of this document is permitted for educational purposed only. 
