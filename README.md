@@ -3,6 +3,8 @@
 🥓🍗🥘🧆
 
 
+
+
 ## Table of Contents 
 
 1). Brief Overview of the Project 
@@ -51,12 +53,19 @@ When done downloading the IDE, learn how to import to Android studio using the w
 
 Now that importing the code to android studio is complete, you would have to add some dependencies to your Android Studio to ensure the code works effectively.
 
-Click on Click on "build.gradle (Module:)", go to dependency, then copy paste the text (given below) inside the dependency environment:
+Click on Click on "build.gradle (Module:)". 
+
+ ![alt text](https://user-images.githubusercontent.com/13349374/115820165-ebae2f00-a41d-11eb-8617-fffc7912e657.png)
+
+Go to dependency, then copy paste the text (given below) inside the dependency environment:
 
     apply plugin: "kotlin-android"
     apply plugin: "kotlin-android-extensions"
-	
-After copying and pasting the text, click on "Sync now". Now, your android studio should be able to effectively run your code. 
+    
+    ![alt text](https://user-images.githubusercontent.com/13349374/115820171-eea91f80-a41d-11eb-96fc-2e97aa8b5a9b.png)
+After copying and pasting the text, click on "Sync now". 
+ ![alt text](https://user-images.githubusercontent.com/13349374/115820175-f10b7980-a41d-11eb-8017-ab90f5d82ebf.png)
+Now, your android studio should be able to effectively run your code. 
 
 
 2.3)  Screenshots and Arrows to guide the user through the app interface. 
@@ -70,6 +79,7 @@ My application would be explained using the Model Control View (MCV) Diagram. Th
 
 The View feature deals with what the user sees on the screen. This feature includes layouts, xml files. In my project, the view managed the designs of the app, like the orientation of the pictures and texts, the scrolling, clicking of the images. The Controller feature handles the instructions sent from the view and model feature. For example, clicking on an image (from the view feature) would notify the controller to update the UI so a new tab can open. In my project, the controller does just the same thing. For better understanding, a simple MCV Diagram would be pasted below to illustrate my explanations. 
 
+![alt text](https://user-images.githubusercontent.com/13349374/115819958-85291100-a41d-11eb-80d3-52fce66204fd.png)
 
 3.2)    Functionalities of certain aspects of the code for better understanding, e.g, fragments, activities, recyclerview, etc.
 
