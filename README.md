@@ -1,6 +1,7 @@
 # Oluwatayo Adetola Project Specifications
 
 
+
 ## Table of Contents 
 
 1). Brief Overview of the Project 
@@ -45,7 +46,7 @@ When done downloading the IDE, learn how to import to Android studio using the w
 
     “How to Clone Android Project from GitHub in Android Studio?” GeeksforGeeks, 4 Nov. 2020, www.geeksforgeeks.org/how-to-clone-android-project-from-github-               in-android-studio/. 
     
-2.2)  Configuration Instrcutions
+2.2)  Configuration Instructions
 
 Now that importing the code to android studio is complete, you would have to add some dependencies to your Android Studio to ensure the code works effectively.
 
